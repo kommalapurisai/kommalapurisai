@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.gif" alt="Animated terminal-style banner for Sai Krishna, QA Automation Engineer" width="100%" />
+<img src="assets/profile-banner.gif" alt="Animated neon terminal portfolio banner for Sai Krishna" width="100%" />
 
 ### QA Automation Engineer | Python | API & UI Test Automation
 
@@ -17,9 +17,9 @@ Building reliable, maintainable automation frameworks for web applications and R
 ## 👨‍💻 About Me
 
 - QA Automation Engineer focused on Python-based test automation.
-- Interested in REST API testing, UI automation, and framework engineering.
-- Skills: Python, Pytest, Selenium WebDriver, Playwright, and Postman.
+- Interested in REST API testing, UI automation, and test-framework engineering.
 - Focused on reusable code, meaningful assertions, reliable execution, and clear test reports.
+- Exploring AI application testing and modern automation practices.
 
 ## 🎓 Education
 
@@ -28,32 +28,39 @@ Building reliable, maintainable automation frameworks for web applications and R
 
 ## 🛠️ Tech Stack
 
-**Programming:** Python  
-**API Testing:** REST APIs, Requests, Postman, JSON and response validation  
-**Test Frameworks:** Pytest, unittest  
-**UI Automation:** Selenium WebDriver, Playwright  
-**CI/CD & Tools:** Git, GitHub Actions, Jenkins, Docker  
-**Additional:** SQL, Linux, HTML, CSS, Allure Reports
+| Area | Tools and skills |
+|---|---|
+| Programming | Python |
+| API Testing | REST API, Postman, request/response validation |
+| Test Frameworks | Pytest |
+| UI Automation | Selenium WebDriver, Playwright |
+| Test Reporting | Allure Reports |
+| Database | SQL |
+| Version Control | Git, GitHub |
+| CI/CD | Jenkins |
+| Containers | Docker |
+| Operating System | Linux |
 
 ## 🚀 Featured Projects
 
-### Python API Automation Framework
-A project for testing REST APIs with Python, Requests, and Pytest.
+### 1. Python API Automation Framework
+A Python and Pytest project for validating REST API behavior.
 
-Planned capabilities:
-- GET, POST, PUT, PATCH, and DELETE
-- Status code, response body, and header validation
-- Positive, negative, and boundary scenarios
-- Reusable API clients and fixtures
-- Environment-based configuration
-- CI execution and test reports
+- Validate HTTP methods, status codes, response bodies, and headers.
+- Cover positive, negative, and boundary scenarios.
+- Use reusable test utilities and fixtures.
+- Add clear execution reports.
 
-### UI Automation Framework
-A Python-based UI testing project using Selenium or Playwright and Pytest.
+### 2. UI Automation Framework
+A UI automation project using Python with Selenium WebDriver or Playwright.
 
-> Add links to your repositories and describe features as completed only after implementing and testing them.
+- Organize tests with reusable page objects and fixtures.
+- Validate core user journeys and negative scenarios.
+- Capture useful failure evidence and test reports.
 
-## 📚 Currently Learning
+> Add links to your repositories and describe capabilities as completed only after implementing and testing them.
+
+## 📚 Currently Exploring
 
 - Advanced API automation and contract testing
 - CI/CD for automated test execution
@@ -68,4 +75,8 @@ A Python-based UI testing project using Selenium or Playwright and Pytest.
 
 ---
 
-<div align="center">**Quality is built into the process, not just checked at the end.**</div>
+<div align="center">
+
+**Quality is built into the process, not just checked at the end.** 🚀
+
+</div>
