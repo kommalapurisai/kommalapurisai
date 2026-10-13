@@ -28,13 +28,13 @@ Building reliable, maintainable automation frameworks for web applications and R
 
 **API Testing:** REST APIs, Requests, Postman, JSON, response validation
 
-**Test Frameworks:** Pytest, unittest
+**Test Frameworks:** Pytest, unittest,Robot framework,Hybrid Framework (Combination of BDD & DDT)
 
 **UI Automation:** Selenium WebDriver, Playwright
 
 **CI/CD & Tools:** Git, GitHub Actions, Jenkins, Docker
 
-**Additional Skills:** SQL, Linux, HTML, CSS, Allure Reports
+**Additional Skills:** SQL, Linux, HTML, CSS, Allure Reports, HTML Reports
 
 ## 🚀 Featured Projects
 
