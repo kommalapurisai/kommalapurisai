@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620" role="img" aria-labelledby="title desc">
+<title id="title">Sai Krishna | QA Automation Engineer</title>
+<desc id="desc">A neon terminal-themed GitHub portfolio banner with ASCII-style portrait, animated scanner line, and QA automation technology stack. No photograph used.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#020817"/><stop offset=".58" stop-color="#061329"/><stop offset="1" stop-color="#08051c"/></linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#10eaff"/><stop offset=".52" stop-color="#635bff"/><stop offset="1" stop-color="#d946ef"/></linearGradient>
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00e5ff"/><stop offset="1" stop-color="#00ffc6"/></linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#153050" stroke-width=".7" opacity=".48"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="leftclip"><rect x="20" y="20" width="550" height="580" rx="30"/></clipPath>
+</defs>
+<rect x="4" y="4" width="1592" height="612" rx="30" fill="url(#bg)" stroke="url(#neon)" stroke-width="3"/>
+<rect x="20" y="20" width="550" height="580" rx="30" fill="#030b1b" stroke="#5b60ff" stroke-width="2"/>
+<rect x="20" y="20" width="550" height="580" rx="30" fill="url(#grid)" opacity=".65"/>
+<rect x="590" y="20" width="990" height="580" rx="30" fill="#030b1b" stroke="#00d9ff" stroke-width="2"/>
+<rect x="590" y="20" width="990" height="580" rx="30" fill="url(#grid)" opacity=".65"/>
+<g font-family="Consolas, 'Courier New', monospace">
+  <circle cx="54" cy="49" r="9" fill="#ff476f"/><circle cx="82" cy="49" r="9" fill="#ffd34e"/><circle cx="110" cy="49" r="9" fill="#00e58b"/>
+  <text x="142" y="56" font-size="18" fill="#c7d2fe">portrait.ascii</text><path d="M42 76H548" stroke="#17466c"/>
+  <circle cx="625" cy="49" r="9" fill="#ff476f"/><circle cx="653" cy="49" r="9" fill="#ffd34e"/><circle cx="681" cy="49" r="9" fill="#00e58b"/>
+  <text x="714" y="56" font-size="18" fill="#c7d2fe">~/kommalapurisai</text>
+  <text x="1185" y="56" font-size="16" fill="#00eaff">[ About ] [ Skills ] [ Projects ] [ Contact ]</text>
+  <path d="M612 76H1554" stroke="#17466c"/>
+  <!-- ASCII-art face: character-based, not a photo -->
+  <g fill="#00dfff" font-size="12" letter-spacing="2" text-anchor="middle" opacity=".92">
+    <text x="295" y="112">..............:::::::::::::..............</text>
+    <text x="295" y="130">........:::-==++******++==-:::...........</text>
+    <text x="295" y="148">......:-=+**##%%%%%%%%%%##**+=-:..........</text>
+    <text x="295" y="166">.....:=+*##%%%%%%@@@@%%%%%%##*+=:.........</text>
+    <text x="295" y="184">....:=*##%%%%%%@@@@@@@@%%%%%%##*=:........</text>
+    <text x="295" y="202">...:=*##%%%%%@@@%%%%%%@@@%%%%%##*=:.......</text>
+    <text x="295" y="220">...:+*##%%%%@@@%%**%%@@@%%%%##*+:........</text>
+    <text x="295" y="238">...:+*##%%%%@@@%#..#%@@@%%%%##*+:........</text>
+    <text x="295" y="256">...:=*##%%%%%@@@%%%%@@@%%%%%##*=:.........</text>
+    <text x="295" y="274">....:=*##%%%%%%@@@@@@%%%%%%##*=:..........</text>
+    <text x="295" y="292">.....:-+*##%%%%%%%%%%%%%%##*+-:...........</text>
+    <text x="295" y="310">........:-=+**########**+=-:..............</text>
+    <text x="295" y="328">.............:--====--:...................</text>
+    <text x="295" y="346">...........::-=++++++=-::.................</text>
+    <text x="295" y="364">.......::-=+**##%%%%##**+=-::..............</text>
+    <text x="295" y="382">....:-=+**##%%%%%%%%%%%%##**+=-:...........</text>
+    <text x="295" y="400">..:=+*##%%%%%%########%%%%%%##*+=:..........</text>
+    <text x="295" y="418">:=+*##%%%%%%############%%%%%%##*+=:........</text>
+    <text x="295" y="436">=+*##%%%%%%################%%%%%%##*+=.......</text>
+  </g>
+  <path d="M145 467H445L477 516H113Z" fill="#061b31" stroke="url(#cyan)" stroke-width="2"/>
+  <text x="295" y="497" font-size="19" font-weight="bold" fill="#00f0ff" text-anchor="middle">DEV.MODE : TRUE</text>
+  <rect x="72" y="535" width="446" height="47" rx="24" fill="#071b2d" stroke="url(#neon)" stroke-width="3" filter="url(#glow)"/>
+  <text x="295" y="565" font-size="19" font-weight="bold" fill="#f3f7ff" text-anchor="middle">QA AUTOMATION ENGINEER</text>
+
+  <text x="625" y="133" font-family="Arial, sans-serif" font-size="43" font-weight="700" fill="#f8fafc">Hi, I'm <tspan fill="#00d9ff">Sai Krishna</tspan> 👋</text>
+  <text x="625" y="174" font-size="27" font-weight="bold" fill="#28f0b4">&gt; QA Automation Engineer<tspan fill="#00eaff">▌</tspan></text>
+  <text x="625" y="205" font-size="18" fill="#d3def8">&gt; Python | API Test Automation | UI Automation | Test Frameworks</text>
+
+  <text x="630" y="249" font-size="20" fill="#00d9ff">●</text><text x="658" y="249" font-size="18" fill="#dbe7ff">K Saikrishna</text>
+  <text x="630" y="283" font-size="20" fill="#00d9ff">◆</text><text x="658" y="283" font-size="18" fill="#dbe7ff">B.Sc Computer Science</text>
+  <text x="630" y="317" font-size="20" fill="#9b6bff">▥</text><text x="658" y="317" font-size="18" fill="#dbe7ff">SV University, Tirupati</text>
+  <text x="630" y="351" font-size="20" fill="#ff3e98">●</text><text x="658" y="351" font-size="18" fill="#dbe7ff">Bengaluru, India</text>
+  <text x="630" y="385" font-size="20" fill="#00d9ff">✉</text><text x="658" y="385" font-size="18" fill="#dbe7ff">ksaikrishna1105@gmail.com</text>
+
+  <rect x="1090" y="228" width="425" height="167" rx="12" fill="#031426" stroke="#00eaff" stroke-width="2" stroke-dasharray="8 5"/>
+  <text x="1110" y="258" font-size="19" font-weight="bold" fill="#00f0ff">// Currently</text>
+  <text x="1110" y="288" font-size="17" fill="#00dfff">&gt; Building automation frameworks</text>
+  <text x="1110" y="316" font-size="17" fill="#00dfff">&gt; Exploring AI in testing</text>
+  <text x="1110" y="344" font-size="17" fill="#00dfff">&gt; Learning new tools and technologies</text>
+  <text x="1110" y="372" font-size="17" fill="#00dfff">&gt; Open to opportunities</text>
+
+  <path d="M625 414H1548" stroke="#155078"/>
+  <text x="625" y="444" font-size="21" font-weight="bold" fill="#00eaff">&gt; Tech Stack</text>
+  <!-- tool badges -->
+  <g font-size="16" fill="#f1f5ff">
+    <g><rect x="625" y="457" width="132" height="43" rx="22" fill="#071a30" stroke="#00dfff" stroke-width="2"/><text x="691" y="484" text-anchor="middle">🐍 Python</text></g>
+    <g><rect x="768" y="457" width="148" height="43" rx="22" fill="#071a30" stroke="#008cff" stroke-width="2"/><text x="842" y="484" text-anchor="middle">⚙ REST API</text></g>
+    <g><rect x="927" y="457" width="125" height="43" rx="22" fill="#071a30" stroke="#00dfff" stroke-width="2"/><text x="989" y="484" text-anchor="middle">▥ Pytest</text></g>
+    <g><rect x="1063" y="457" width="147" height="43" rx="22" fill="#071a30" stroke="#00dfff" stroke-width="2"/><text x="1136" y="484" text-anchor="middle">✓ Selenium</text></g>
+    <g><rect x="1221" y="457" width="155" height="43" rx="22" fill="#071a30" stroke="#d946ef" stroke-width="2"/><text x="1298" y="484" text-anchor="middle">🎭 Playwright</text></g>
+    <g><rect x="1387" y="457" width="148" height="43" rx="22" fill="#071a30" stroke="#008cff" stroke-width="2"/><text x="1461" y="484" text-anchor="middle">🟠 Postman</text></g>
+    <g><rect x="625" y="510" width="108" height="40" rx="20" fill="#071a30" stroke="#00dfff" stroke-width="2"/><text x="679" y="535" text-anchor="middle">▤ SQL</text></g>
+    <g><rect x="744" y="510" width="102" height="40" rx="20" fill="#071a30" stroke="#d946ef" stroke-width="2"/><text x="795" y="535" text-anchor="middle">◆ Git</text></g>
+    <g><rect x="857" y="510" width="132" height="40" rx="20" fill="#071a30" stroke="#008cff" stroke-width="2"/><text x="923" y="535" text-anchor="middle">◉ GitHub</text></g>
+    <g><rect x="1000" y="510" width="143" height="40" rx="20" fill="#071a30" stroke="#00dfff" stroke-width="2"/><text x="1071" y="535" text-anchor="middle">♟ Jenkins</text></g>
+    <g><rect x="1154" y="510" width="133" height="40" rx="20" fill="#071a30" stroke="#00dfff" stroke-width="2"/><text x="1220" y="535" text-anchor="middle">🐳 Docker</text></g>
+    <g><rect x="1298" y="510" width="111" height="40" rx="20" fill="#071a30" stroke="#ffb703" stroke-width="2"/><text x="1353" y="535" text-anchor="middle">🐧 Linux</text></g>
+    <g><rect x="1420" y="510" width="115" height="40" rx="20" fill="#071a30" stroke="#8b5cf6" stroke-width="2"/><text x="1477" y="535" text-anchor="middle">◉ Allure</text></g>
+  </g>
+  <path d="M625 565H1548" stroke="#155078"/>
+  <text x="625" y="589" font-size="17" font-weight="bold" fill="#00f0ff">&gt; Let's build quality together! 🚀</text>
+  <text x="1260" y="589" font-size="15" fill="#9b8cff">github.com/kommalapurisai</text>
+</g>
+<!-- Animated horizontal scanner sweep -->
+<g clip-path="url(#leftclip)">
+  <rect x="20" y="0" width="550" height="4" fill="#00f5ff" opacity=".9" filter="url(#glow)">
+    <animate attributeName="y" values="20;600;20" dur="3.6s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="20" y="0" width="550" height="18" fill="#00dfff" opacity=".10">
+    <animate attributeName="y" values="12;592;12" dur="3.6s" repeatCount="indefinite"/>
+  </rect>
+</g>
+<g opacity=".8"><rect x="5" y="275" width="1590" height="2" fill="#00eaff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="2s" repeatCount="indefinite"/></rect></g>
+</svg>
